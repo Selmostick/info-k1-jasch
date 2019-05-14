@@ -85,3 +85,6 @@ class Paddel {
     }
   }
 }
+
+
+// la la isch hab was verenddert 
